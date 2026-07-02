@@ -1,0 +1,5 @@
+com\example\Institute_Pagination\entity\Institute_Student.class
+com\example\Institute_Pagination\InstitutePaginationApplication.class
+com\example\Institute_Pagination\repository\InstituteRepository.class
+com\example\Institute_Pagination\service\InstituteService.class
+com\example\Institute_Pagination\controller\InstituteController.class
