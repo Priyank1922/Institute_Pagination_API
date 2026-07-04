@@ -12,7 +12,7 @@ import com.example.Institute_Pagination.service.InstituteService;
 
 @RestController
 @RequestMapping("/institute")
-@CrossOrigin("https://institute-pagination-front-end-nklw.vercel.app/")
+@CrossOrigin(origins = "https://institute-pagination-front-end-nklw.vercel.app")
 public class InstituteController {
 
 	@Autowired
